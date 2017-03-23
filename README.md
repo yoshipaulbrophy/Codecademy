@@ -1,1 +1,1 @@
-# Codecademt.html is the website, others are the sources of Codecademy.html.
+# Codecademy.html is the website, others are the sources of Codecademy.html.
